@@ -1,0 +1,21 @@
+﻿Сборка начата 04.04.2024 13:16:57.
+Уровень детализации журнала: Normal.     1>Проект "C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\SE_Lab07.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Visual Studio\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Visual Studio\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\Debug\SE_Lab07.exe" /INCREMENTAL /ILK:"Debug\SE_Lab07.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\Debug\SE_Lab07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\Debug\SE_Lab07.lib" /MACHINE:X86 Debug\Call.obj
+         Debug\main.obj
+         SE_Lab07.vcxproj -> C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\Debug\SE_Lab07.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab07.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab07.tlog\SE_Lab07.lastbuildstate".
+     1>Сборка проекта "C:\ФИТ\Лабораторные работы\Лабораторные работы по КПО\Лабораторная работа №7\SE_Lab07\SE_Lab07\SE_Lab07.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.17
